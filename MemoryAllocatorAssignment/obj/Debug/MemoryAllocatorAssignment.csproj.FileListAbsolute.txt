@@ -1,0 +1,9 @@
+c:\users\abdarhman\documents\visual studio 2013\Projects\MemoryAllocatorAssignment\MemoryAllocatorAssignment\bin\Debug\MemoryAllocatorAssignment.exe.config
+C:\Users\abdarhman\documents\visual studio 2013\Projects\MemoryAllocatorAssignment\MemoryAllocatorAssignment\bin\Debug\MemoryAllocatorAssignment.exe
+C:\Users\abdarhman\documents\visual studio 2013\Projects\MemoryAllocatorAssignment\MemoryAllocatorAssignment\bin\Debug\MemoryAllocatorAssignment.pdb
+C:\Users\abdarhman\documents\visual studio 2013\Projects\MemoryAllocatorAssignment\MemoryAllocatorAssignment\obj\Debug\MemoryAllocatorAssignment.csprojResolveAssemblyReference.cache
+C:\Users\abdarhman\documents\visual studio 2013\Projects\MemoryAllocatorAssignment\MemoryAllocatorAssignment\obj\Debug\MemoryAllocatorAssignment.Form1.resources
+C:\Users\abdarhman\documents\visual studio 2013\Projects\MemoryAllocatorAssignment\MemoryAllocatorAssignment\obj\Debug\MemoryAllocatorAssignment.Properties.Resources.resources
+C:\Users\abdarhman\documents\visual studio 2013\Projects\MemoryAllocatorAssignment\MemoryAllocatorAssignment\obj\Debug\MemoryAllocatorAssignment.csproj.GenerateResource.Cache
+C:\Users\abdarhman\documents\visual studio 2013\Projects\MemoryAllocatorAssignment\MemoryAllocatorAssignment\obj\Debug\MemoryAllocatorAssignment.exe
+C:\Users\abdarhman\documents\visual studio 2013\Projects\MemoryAllocatorAssignment\MemoryAllocatorAssignment\obj\Debug\MemoryAllocatorAssignment.pdb
